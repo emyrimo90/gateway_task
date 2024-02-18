@@ -11,7 +11,7 @@ git clone git@github.com:Emanmahmoud21/gateway_task.git
 
 3. Run Install Command:
 ``` bash
-composer install --ignore-platform-reqs
+composer install
 ```
 4. Run Install Node Modules
 ``` bash
